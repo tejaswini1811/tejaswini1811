@@ -19,12 +19,6 @@
 
 ---
 
-## 💼 Recent Work
-
-🛍️ **Michaels** – Managed and optimized infrastructure for a retail platform using **Terraform**, **AWS**, and **CI/CD pipelines**. Focused on infrastructure as code, deployment automation, and improving system reliability.
-
----
-
 ## 📊 GitHub Stats
 
 ![Tejaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
